@@ -1,0 +1,8 @@
+{
+    "version":  "1.53",
+    "license":  "Public Domain",
+    "url":  "https://sourceforge.net/projects/msieve/files/msieve/Msieve%20v1.53/msieve153_win64.zip",
+    "homepage":  "https://sourceforge.net/projects/msieve/",
+    "hash":  "",
+    "bin":  "msieve153/msieve153.exe"
+}
