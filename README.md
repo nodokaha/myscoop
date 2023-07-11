@@ -6,3 +6,12 @@ If you use, try it.
 ```
 scoop bucket add nodoka https://github.com/nodokaha/myscoop
 ```
+
+package indexs
+
+- うさみみハリケーン (UsaMimi)
+- john the ripper (john)
+- msieve
+- primesieve
+- wabt
+- LibreSprite
