@@ -1,0 +1,8 @@
+{
+    "version":  "1.9.0",
+    "license":  "GPL-2.0",
+    "url":  "https://www.openwall.com/john/k/john-1.9.0-jumbo-1-win64.7z",
+    "homepage":  "https://www.openwall.com/john/",
+    "hash":  "ce05a898b72bb30c3c4f703e3ffcf25966c1b1801eb7e095030b44092ef92eaf",
+    "env_add_path":  "john-1.9.0-jumbo-1-win64/run"
+}
