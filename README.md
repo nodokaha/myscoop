@@ -13,7 +13,7 @@ package indexs
 - john the ripper (john)
 - msieve
 - primesieve
-- wabt
+- ~~wabt~~
 - LibreSprite
 - bcc32
 - sciteco
