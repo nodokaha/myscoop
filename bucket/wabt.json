@@ -1,8 +1,0 @@
-{
-    "version":  "1.0.33",
-    "license":  "Apache-2.0",
-    "url":  "https://github.com/WebAssembly/wabt/releases/download/1.0.33/wabt-1.0.33-windows.tar.gz",
-    "homepage":  "https://github.com/WebAssembly/wabt",
-    "hash":  "6417baad5b7ae374904fc12b95ebcb2d7c1e46d81109b6dbf6d3253136e7cd51",
-    "env_add_path": "wabt-1.0.33/bin"
-}
