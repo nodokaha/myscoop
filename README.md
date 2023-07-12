@@ -15,3 +15,6 @@ package indexs
 - primesieve
 - wabt
 - LibreSprite
+- bcc32
+- sciteco
+- clamav
