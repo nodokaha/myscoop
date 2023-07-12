@@ -5,5 +5,5 @@
     "homepage":  "https://ssp.shillest.net/",
     "hash":  "02fdd2dd0dbd3a94dd6e9383f616a4ead1daa6a2d64bda313a2d2ccc9aa7540d",
     "bin":  "ssp.exe",
-    "shortcuts": ["ssp.exe", "SSP/ssp"]
+    "shortcut": ["ssp.exe", "NiseHaruka/SSP"]
 }
