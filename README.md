@@ -18,3 +18,4 @@ package indexs
 - bcc32
 - sciteco
 - clamav
+- tecoc
