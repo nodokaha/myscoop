@@ -5,5 +5,5 @@
     "depends":  ["bcc32", "unzip", "sed"],
     "homepage":  "https://github.com/blakemcbride/TECOC",
     "bin":  "TECOC-master/src/tecoc.exe",
-    "installer": { "script": ["Push-Location \"$dir\"", "unzip master", "cd TECOC-master/src", "sed -e 's/bcc32/bcc32c/g' -i makefile.b32", "bcc32c genclp.c -o genclp.exe", "genclp", "make -f makefile.b32", "Pop-Location"] }
+    "installer": { "script": ["Push-Location \"$dir\"", "unzip master", "cd TECOC-master/src", "sed -e 's/bcc32/bcc32c/g' -i makefile.b32", "bcc32c genclp.c -o genclp.exe", ".\\genclp.exe", "make -f makefile.b32", "Pop-Location"] }
 }
