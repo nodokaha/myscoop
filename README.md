@@ -19,3 +19,4 @@ package indexs
 - sciteco
 - clamav
 - tecoc
+- vs_buildtools
