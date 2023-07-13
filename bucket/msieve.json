@@ -3,6 +3,6 @@
     "license":  "Public Domain",
     "url":  "https://sourceforge.net/projects/msieve/files/msieve/Msieve%20v1.53/msieve153_win64.zip",
     "homepage":  "https://sourceforge.net/projects/msieve/",
-    "hash":  "",
+    "hash":  "40eef48d9f2a3e79254ba57d6003721545af42eca8ce2274005fe75fa4b3fea6",
     "bin":  "msieve153/msieve153.exe"
 }
