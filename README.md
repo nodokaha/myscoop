@@ -20,3 +20,4 @@ package indexs
 - clamav
 - tecoc
 - vs_buildtools
+- SSP（伺かベースウェア)
