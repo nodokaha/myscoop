@@ -1,0 +1,8 @@
+{
+  "url": "https://f001.backblazeb2.com/file/EricZimmermanTools/bstrings.zip",
+  "homepage": "https://ericzimmerman.github.io",
+  "hash": "4bbda8c6d2a6492cf278d0570b9baf52c7989e0458e870e6de732bb6dbf35bc0",
+  "bin": "bstrings.exe",
+  "license": "MIT",
+  "version": "1.5.2.0"
+}
