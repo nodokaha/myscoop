@@ -1,0 +1,11 @@
+{
+  "version": "1.9",
+  "bin": ["scheme48.bat", "scheme48vm.exe"],
+  "hash": "2ee06fd5b2b6cbdea88f9bbb01a018ceeec9b43cae1f7d81a9af2968e260fb78",
+  "homepage": "https://www.s48.org/",
+  "checkver": { "url": "https://www.s48.org/1.9/windows.html", "regex": "Download scheme48-([\\d.]+).msi" },
+  "autoupdate": { "url": "https://www.s48.org/$version/scheme48-$version.msi" },
+  "extract_dir": "PFiles/Scheme 48/Scheme 48 1.9/",
+  "url": "https://www.s48.org/1.9/scheme48-1.9.msi",
+  "license": "BSD"
+}
