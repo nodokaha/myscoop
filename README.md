@@ -21,3 +21,5 @@ package indexs
 - tecoc
 - vs_buildtools
 - SSP（伺かベースウェア)
+- ChezScheme
+- scheme48
