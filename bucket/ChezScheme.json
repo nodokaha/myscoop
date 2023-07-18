@@ -1,0 +1,12 @@
+{
+  "hash": "417ebbedfb00fb74c9a7ebafc5587a804e5ad24a18657a0346558753565874bc",
+  "homepage": "https://cisco.github.io/ChezScheme/",
+  "license": "Apache-2.0",
+  "version": "v9.5.8",
+  "url": "https://github.com/cisco/ChezScheme/releases/download/v9.5.8a/ChezScheme9.5.8.exe",
+  "depends": "wixtoolset",
+  "pre_install": ["if (!(is_admin)) { error \"$app requires admin rights to $cmd\"; break }"],
+  "pre_uninstall": ["if (!(is_admin)) { error \"$app requires admin rights to $cmd\"; break }"],
+  "installer": { "script": ["Push-Location \"$dir\"", "dark ChezScheme9.5.8.exe -x .\\", "cd AttachedContainer", "msiexec /a ChezScheme64.msi /qb TARGETDIR=\"$dir\"", "Pop-Location", "sleep 3"] },
+  "bin": ["Chez Scheme 9.5.8/bin/a6nt/scheme.exe", "Chez Scheme 9.5.8/bin/a6nt/petite.exe"]
+}
