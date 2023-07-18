@@ -3,6 +3,7 @@
     "license":  "BSD 2-Clause",
     "url":  "https://github.com/kimwalisch/primesieve/releases/download/v11.1/primesieve-11.1-win-x64.zip",
     "homepage":  "https://github.com/kimwalisch/primesieve",
+    "checkver": "github",
     "hash":  "96999f13889e7b56563e98295e02d07b65429e3161cafcb1a5f48ae9eb983ddf",
     "bin":  "primesieve.exe"
 }
