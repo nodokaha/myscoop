@@ -23,3 +23,5 @@ package indexs
 - SSP（伺かベースウェア)
 - ChezScheme
 - scheme48
+- bstrings
+- EvtxECmd
