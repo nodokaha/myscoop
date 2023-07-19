@@ -1,0 +1,9 @@
+{
+  "version": "1.5.0.0",
+  "bin": "EvtxECmd.exe",
+  "extract_dir": "EvtxECmd",
+  "homepage": "https://ericzimmerman.github.io",
+  "license": "MIT",
+  "hash": "85a00199c57def8a3005ee2f960a8c743f4eb0e8f05c96612aafc204f3867627",
+  "url": "https://f001.backblazeb2.com/file/EricZimmermanTools/net6/EvtxECmd.zip"
+}
