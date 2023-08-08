@@ -1,0 +1,10 @@
+{
+  "version": "0.14.7",
+  "homepage": "https://voicevox.hiroshiba.jp/",
+  "url": "https://github.com/VOICEVOX/voicevox/releases/download/0.14.7/voicevox-windows-directml-0.14.7.zip",
+  "extract_dir": "VOICEVOX",
+  "license": "LGPL-3",
+  "bin": "VOICEVOX.exe",
+  "shortcut": ["VOICEVOX.exe", "VOICEVOX/VOICEVOX"],
+  "hash": "bcda5b6a3cb2eee17238ea33cadd2a6418156178cba85a6524a5f276f137e6c0"
+}
