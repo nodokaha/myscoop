@@ -5,5 +5,5 @@
     "homepage":  "https://sciteco.sourceforge.net/",
     "hash":  "d7ffffa85aa08b8f428da10f0b6b4d19cd8ad89c511c76d40aa5b7160838be7d",
     "bin":  ["sciteco.exe", "gsciteco.exe"],
-    "shortcut": ["gsciteco.exe", "TECO/gsciteco"]
+    "shortcut": [["gsciteco.exe", "TECO/gsciteco"]]
 }
