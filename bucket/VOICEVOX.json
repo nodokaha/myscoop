@@ -5,6 +5,6 @@
   "extract_dir": "VOICEVOX",
   "license": "LGPL-3",
   "bin": "VOICEVOX.exe",
-  "shortcut": [["VOICEVOX.exe", "VOICEVOX/VOICEVOX"]],
+  "shortcuts": [["VOICEVOX.exe", "VOICEVOX/VOICEVOX"]],
   "hash": "bcda5b6a3cb2eee17238ea33cadd2a6418156178cba85a6524a5f276f137e6c0"
 }

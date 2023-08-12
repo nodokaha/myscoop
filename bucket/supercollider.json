@@ -1,7 +1,7 @@
 {
   "hash": "362e8ea0026669d7419c96c6dac0ca4b39263840835661fc88315095435a8a8d",
   "bin": ["sclang.exe", "supernova.exe", "scide.exe", "scsynth.exe"],
-  "shortcut": [["scide.exe", "SuperCollider/scide"]],
+  "shortcuts": [["scide.exe", "SuperCollider/scide"]],
   "license": "GPL-3.0",
   "extract_dir": "SuperCollider",
   "version": "3.13.0",

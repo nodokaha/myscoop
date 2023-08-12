@@ -6,6 +6,5 @@
     "checkver": { "url": "https://ssp.shillest.net/archive/rss.xml", "regex": "ssp_([\\d_]+\\w)\\.exe" },
     "autoupdate": { "url": "https://ssp-cdn.de10.moe/archive/ssp_$cleanVersion.zip" },
     "hash":  "02fdd2dd0dbd3a94dd6e9383f616a4ead1daa6a2d64bda313a2d2ccc9aa7540d",
-    "bin":  "ssp.exe",
-    "shortcut": [["ssp.exe", "NiseHaruka/SSP"]]
+    "shortcutss": [["ssp.exe", "NiseHaruka/SSP"]]
 }
