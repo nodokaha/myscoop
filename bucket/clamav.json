@@ -1,10 +1,33 @@
 {
-    "version":  "1.1.0",
-    "license":  "GPL",
-    "url":  "https://www.clamav.net/downloads/production/clamav-1.1.0.win.x64.msi",
-    "homepage":  "https://www.clamav.net",
-    "hash":  "$url.hash256",
-    "bin": ["ClamAV/clambc.exe", "ClamAV/clamconf.exe", "ClamAV/clamd.exe", "ClamAV/clamdscan.exe", "ClamAV/clamdtop.exe", "ClamAV/clamscan.exe", "ClamAV/clamsubmit.exe", "ClamAV/freshclam.exe", "ClamAV/sigtool.exe"],
-    "installer": { "script": ["Push-Location \"$dir\"", "move ClamAV/conf_examples/clamd.conf.sample ClamAV/clamd.conf", "move ClamAV/conf_examples/freshclam.conf.sample ClamAV/freshclam.conf", "Pop-Location"] },
-    "checkver": { "url": "https://www.clamav.net/downloads/", "regex": "clamav-([\\d.]+).win.x64.msi" }
+    "version": "1.1.1",
+    "license": "GPL",
+    "url": "https://www.clamav.net/downloads/production/clamav-1.1.1.win.x64.msi",
+    "homepage": "https://www.clamav.net",
+    "hash": "644429c573c85eda08f9f98ece94e863ee2061bd59df9b4c3cb942152a983041",
+    "bin": [
+        "ClamAV/clambc.exe",
+        "ClamAV/clamconf.exe",
+        "ClamAV/clamd.exe",
+        "ClamAV/clamdscan.exe",
+        "ClamAV/clamdtop.exe",
+        "ClamAV/clamscan.exe",
+        "ClamAV/clamsubmit.exe",
+        "ClamAV/freshclam.exe",
+        "ClamAV/sigtool.exe"
+    ],
+    "installer": {
+        "script": [
+            "Push-Location \"$dir\"",
+            "move ClamAV/conf_examples/clamd.conf.sample ClamAV/clamd.conf",
+            "move ClamAV/conf_examples/freshclam.conf.sample ClamAV/freshclam.conf",
+            "Pop-Location"
+        ]
+    },
+    "checkver": {
+        "url": "https://www.clamav.net/downloads/",
+        "regex": "clamav-([\\d.]+).win.x64.msi"
+    },
+    "autoUpdate": {
+        "url": "https://www.clamav.net/downloads/production/clamav-$version.win.x64.msi"
+    }
 }
