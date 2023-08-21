@@ -3,7 +3,8 @@
     "license":  "GPL",
     "url":  "https://www.clamav.net/downloads/production/clamav-1.1.0.win.x64.msi",
     "homepage":  "https://www.clamav.net",
-    "hash":  "3afada801463199d9901e4445e92b486993c14c22ca179d17abec74d37e384bb",
+    "hash":  "$url.hash256",
     "bin": ["ClamAV/clambc.exe", "ClamAV/clamconf.exe", "ClamAV/clamd.exe", "ClamAV/clamdscan.exe", "ClamAV/clamdtop.exe", "ClamAV/clamscan.exe", "ClamAV/clamsubmit.exe", "ClamAV/freshclam.exe", "ClamAV/sigtool.exe"],
-    "installer": { "script": ["Push-Location \"$dir\"", "move ClamAV/conf_examples/clamd.conf.sample ClamAV/clamd.conf", "move ClamAV/conf_examples/freshclam.conf.sample ClamAV/freshclam.conf", "Pop-Location"] }
+    "installer": { "script": ["Push-Location \"$dir\"", "move ClamAV/conf_examples/clamd.conf.sample ClamAV/clamd.conf", "move ClamAV/conf_examples/freshclam.conf.sample ClamAV/freshclam.conf", "Pop-Location"] },
+    "checkver": { "url": "https://www.clamav.net/downloads/", "regex": "clamav-([\\d.]+).win.x64.msi" }
 }
