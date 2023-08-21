@@ -1,10 +1,20 @@
 {
-    "version":  "2_6_48f",
-    "license":  "Freeware",
-    "url":  "https://ssp-cdn.de10.moe/archive/ssp_2_6_48f.zip",
-    "homepage":  "https://ssp.shillest.net/",
-    "checkver": { "url": "https://ssp.shillest.net/archive/rss.xml", "regex": "ssp_([\\d_]+\\w)\\.exe" },
-    "autoupdate": { "url": "https://ssp-cdn.de10.moe/archive/ssp_$cleanVersion.zip" },
-    "hash":  "02fdd2dd0dbd3a94dd6e9383f616a4ead1daa6a2d64bda313a2d2ccc9aa7540d",
-    "shortcuts": [["ssp.exe", "NiseHaruka/SSP"]]
+    "version": "2_6_50f",
+    "license": "Freeware",
+    "url": "https://ssp-cdn.de10.moe/archive/ssp_2_6_50f.zip",
+    "homepage": "https://ssp.shillest.net/",
+    "checkver": {
+        "url": "https://ssp.shillest.net/archive/rss.xml",
+        "regex": "ssp_([\\d_]+\\w)\\.exe"
+    },
+    "autoupdate": {
+        "url": "https://ssp-cdn.de10.moe/archive/ssp_$version.zip"
+    },
+    "hash": "549c888a34af1d9bc45e5690d9cbce02ee041e116172673fee825db58d6ee54c",
+    "shortcuts": [
+        [
+            "ssp.exe",
+            "NiseHaruka/SSP"
+        ]
+    ]
 }

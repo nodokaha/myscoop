@@ -86,7 +86,7 @@
             "}"
         ]
     },
-    "checkver": "github",
+    "checkver": { "github": "https://github.com/yuru7/HackGen" },
     "autoupdate": {
         "url": "https://github.com/yuru7/HackGen/releases/download/v$version/HackGen_v$version.zip"
     }

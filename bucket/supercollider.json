@@ -6,5 +6,6 @@
   "extract_dir": "SuperCollider",
   "version": "3.13.0",
   "url": "https://github.com/supercollider/supercollider/releases/download/Version-3.13.0/SuperCollider-3.13.0-win64.zip",
-  "homepage": "https://supercollider.github.io/"
+  "homepage": "https://supercollider.github.io/",
+  "checkver": { "url": "https://github.com/supercollider/supercollider/tags", "regex": "Version-([\\d+.]+)" }
 }
