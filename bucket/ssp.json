@@ -1,7 +1,7 @@
 {
-    "version": "2_6_50f",
+    "version": "2_6_51f",
     "license": "Freeware",
-    "url": "https://ssp-cdn.de10.moe/archive/ssp_2_6_50f.zip",
+    "url": "https://ssp-cdn.de10.moe/archive/ssp_2_6_51f.zip",
     "homepage": "https://ssp.shillest.net/",
     "checkver": {
         "url": "https://ssp.shillest.net/archive/rss.xml",
@@ -10,7 +10,7 @@
     "autoupdate": {
         "url": "https://ssp-cdn.de10.moe/archive/ssp_$version.zip"
     },
-    "hash": "549c888a34af1d9bc45e5690d9cbce02ee041e116172673fee825db58d6ee54c",
+    "hash": "5bf417b770a5f23f42f729c8bb928f145d49461f23f662f94c2495cae35c9f69",
     "shortcuts": [
         [
             "ssp.exe",
