@@ -1,9 +1,9 @@
 {
-    "version": "1.1.1",
+    "version": "1.2.0",
     "license": "GPL",
-    "url": "https://www.clamav.net/downloads/production/clamav-1.1.1.win.x64.msi",
+    "url": "https://www.clamav.net/downloads/production/clamav-1.2.0.win.x64.msi",
     "homepage": "https://www.clamav.net",
-    "hash": "644429c573c85eda08f9f98ece94e863ee2061bd59df9b4c3cb942152a983041",
+    "hash": "24d214d9c279f0580ed0310326b0f985ddb20ede5038a34ca48425d0f51c4e0d",
     "bin": [
         "ClamAV/clambc.exe",
         "ClamAV/clamconf.exe",
