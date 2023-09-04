@@ -25,3 +25,9 @@ package indexs
 - scheme48
 - bstrings
 - EvtxECmd
+- sleuthkit
+- はくげんフォント
+- openstegotool
+- LivreSprite
+- Cemu
+- supercollider
