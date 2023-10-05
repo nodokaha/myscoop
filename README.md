@@ -31,3 +31,6 @@ package indexs
 - LivreSprite
 - Cemu
 - supercollider
+- mmix Collection
+- Satolist2
+- nkfwin
