@@ -1,0 +1,7 @@
+{
+  "bin": "mmoimg.exe",
+  "license": "Donald E. Knuth",
+  "homepage": "https://mmix.cs.hm.edu/index.html",
+  "url": "https://www.mmix.cs.hm.edu/exe/mmoimg.exe",
+  "version": "nightly"
+}
