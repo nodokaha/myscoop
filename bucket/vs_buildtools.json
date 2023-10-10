@@ -1,8 +1,7 @@
 {
-    "version":  "17",
+    "version":  "nightly",
     "license":  "Microsoft License",
     "url":  "https://aka.ms/vs/17/release/vs_buildtools.exe",
-    "hash": "bbd9e99e837140cc7838ec63d0609c5e63ff43001cfa1e558b48db235f015237",
     "homepage":  "https://visualstudio.microsoft.com/ja/downloads/",
     "pre_install": ["if (!(is_admin)) { error \"$app requires admin rights to $cmd\"; break }"],
     "pre_uninstall": ["if (!(is_admin)) { error \"$app requires admin rights to $cmd\"; break }"],
