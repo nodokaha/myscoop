@@ -1,0 +1,9 @@
+{
+  "license": "GPL2+",
+  "extract_dir": "steghide",
+  "version": "0.5.1",
+  "hash": "d8211b43dc4dad1333c9ac8b60f5a468f5f8d744f80f9571df431def925cd579",
+  "homepage": "https://sourceforge.net/projects/steghide",
+  "bin": "steghide.exe",
+  "url": "https://sourceforge.net/projects/steghide/files/steghide/0.5.1/steghide-0.5.1-win32.zip"
+}
