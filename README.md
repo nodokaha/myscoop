@@ -34,3 +34,5 @@ package indexs
 - mmix Collection
 - Satolist2
 - nkfwin
+- OpenPraparatHelper
+- steghide
