@@ -1,10 +1,10 @@
 {
-    "version": "2.0.0.0",
+    "version": "2.0.0.1",
     "license": "MIT",
     "extract_dir": "OpenPraparatHelper",
-    "hash": "f9ee56efd03955c872b2b895385308b3c0d249e4b2753eaa3855c05f0aad839a",
+    "hash": "785f95b97310f05661249ace04c10e84404273221f9cf8bee7bce500bac6d95e",
     "bin": "OpenPraparatHelper.exe",
-    "url": "https://github.com/furaku/OpenPraparatHelper/releases/download/v2.0.0.0/OpenPraparatHelper_v2.0.0.0.zip",
+    "url": "https://github.com/furaku/OpenPraparatHelper/releases/download/v2.0.0.1/OpenPraparatHelper_v2.0.0.1.zip",
     "autoupdate": {
         "url": "https://github.com/furaku/OpenPraparatHelper/releases/download/v$version/OpenPraparatHelper_v$version.zip"
     },
