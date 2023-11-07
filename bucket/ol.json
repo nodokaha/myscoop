@@ -1,0 +1,10 @@
+{
+  "hash": "69b2bbcf1163fe010934464c99eb0207f36e0f6ede96390af39545f7579a5d07",
+  "homepage": "https://yuriy-chumak.github.io/ol/",
+  "bin": "ol.exe",
+  "url": "https://github.com/yuriy-chumak/ol/releases/download/2.4/ol-2.4.setup.exe",
+  "installer": {script: ["Push-Location \"$dir\"", "7z x -y ol-2.4.setup.exe", "Pop-Location"]},
+  "license": "GPL3+",
+  "version": "2.4",
+  "extract_dir": ""
+}
