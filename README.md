@@ -35,5 +35,6 @@ package indexs
 - Satolist2
 - nkfwin
 - OpenPraparatHelper
+- OpenPraparat
 - steghide
 - ol(otus lisp)
