@@ -1,6 +1,6 @@
 {
   "url": "https://github.com/digego/extempore/releases/download/v0.8.9/extempore-v0.8.9-windows-2019.zip",
-  "bin": "extempore.exe",
+  "bin": [["extempore.exe", "extempore", "--sharedir $dir"]],
   "extract_dir": "extempore",
   "homepage": "https://extemporelang.github.io/",
   "license": "MIT",
