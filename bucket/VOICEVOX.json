@@ -1,7 +1,7 @@
 {
-    "version": "0.14.10",
+    "version": "0.15.2",
     "homepage": "https://voicevox.hiroshiba.jp/",
-    "url": "https://github.com/VOICEVOX/voicevox/releases/download/0.14.10/voicevox-windows-directml-0.14.10.zip",
+    "url": "https://github.com/VOICEVOX/voicevox/releases/download/0.15.2/voicevox-windows-directml-0.15.2.zip",
     "extract_dir": "VOICEVOX",
     "license": "LGPL-3",
     "bin": "VOICEVOX.exe",
@@ -11,7 +11,7 @@
             "VOICEVOX/VOICEVOX"
         ]
     ],
-    "hash": "2af07ac0ec8498e0734b5deb174eb2f3f4c3486e11ac9612228d132ce29e9263",
+    "hash": "4bec9508199a51dd205c104c434b347b1ca01f0006daac4ec2b8bb58777b748a",
     "checkver": {
         "github": "https://github.com/VOICEVOX/voicevox/"
     },
