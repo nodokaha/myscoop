@@ -1,12 +1,12 @@
 {
-    "version": "11.2",
+    "version": "12.0",
     "license": "BSD 2-Clause",
-    "url": "https://github.com/kimwalisch/primesieve/releases/download/v11.2/primesieve-11.2-win-x64.zip",
+    "url": "https://github.com/kimwalisch/primesieve/releases/download/v12.0/primesieve-12.0-win-x64.zip",
     "homepage": "https://github.com/kimwalisch/primesieve",
     "checkver": "github",
     "autoupdate": {
         "url": "https://github.com/kimwalisch/primesieve/releases/download/v$version/primesieve-$version-win-x64.zip"
     },
-    "hash": "144ab8be0fc857279628e44fb8955f167f3a381b1986571e328204be19191fa4",
+    "hash": "fb6509d27be15883503d4d79da69b3646261af278ffcd0ee0ca2cb3081417f95",
     "bin": "primesieve.exe"
 }

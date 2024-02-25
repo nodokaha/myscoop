@@ -1,0 +1,4 @@
+File not found: config.cfg
+ensure(exists) failed
+file: augs\filesystem\file.cpp
+line: 45

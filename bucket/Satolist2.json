@@ -2,9 +2,9 @@
     "bin": "Satolist2.exe",
     "license": "CC BY-NC",
     "homepage": "https://github.com/kanadelab/Satolist2",
-    "hash": "bfbf80b4ff5602ce5511011f219f93fc51e60cc5a8eab5f77623ea02ba914a29",
-    "url": "https://github.com/kanadelab/Satolist2/releases/download/2.0.39/Satolist2.zip",
-    "version": "2.0.39",
+    "hash": "7cce476f55263a8086d5c3dbbbfbe7143d36de2117687b627ce2d988e86bfdac",
+    "url": "https://github.com/kanadelab/Satolist2/releases/download/2.1.2/Satolist2.zip",
+    "version": "2.1.2",
     "checkver": "github",
     "autoupdate": {
         "url": "https://github.com/kanadelab/Satolist2/releases/download/$version/Satolist2.zip"
