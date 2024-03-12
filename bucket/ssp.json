@@ -1,7 +1,7 @@
 {
-    "version": "2_6_60f",
+    "version": "2_6_61f",
     "license": "Freeware",
-    "url": "https://sspnormal.shillest.net/archive/ssp_2_6_60f.zip",
+    "url": "https://sspnormal.shillest.net/archive/ssp_2_6_61f.zip",
     "homepage": "https://ssp.shillest.net/",
     "checkver": {
         "url": "https://ssp.shillest.net/archive/rss.xml",
@@ -10,7 +10,7 @@
     "autoupdate": {
         "url": "https://sspnormal.shillest.net/archive/ssp_$version.zip"
     },
-    "hash": "2b95d143d0a22300965d2180ecf45a1ba3ebd19a6fb28aff375027b54059c372",
+    "hash": "4c0bdadb956d1fc7a942db9a481b99058ba732bcf21b5723b69f35523a88233c",
     "shortcuts": [
         [
             "ssp.exe",
