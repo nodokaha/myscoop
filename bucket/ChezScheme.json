@@ -8,5 +8,5 @@
   "pre_install": ["if (!(is_admin)) { error \"$app requires admin rights to $cmd\"; break }"],
   "pre_uninstall": ["if (!(is_admin)) { error \"$app requires admin rights to $cmd\"; break }"],
   "installer": { "script": ["Push-Location \"$dir\"", "dark ChezScheme9.5.8.exe -x .\\", "cd AttachedContainer", "msiexec /a ChezScheme64.msi /qb TARGETDIR=\"$dir\"", "Pop-Location", "sleep 3"] },
-  "bin": ["Chez Scheme 9.5.8/bin/a6nt/scheme.exe", "Chez Scheme 9.5.8/bin/a6nt/petite.exe"]
+  "bin": ["Chez Scheme 9.5.8/bin/ta6nt/scheme.exe", "Chez Scheme 9.5.8/bin/ta6nt/petite.exe"]
 }
