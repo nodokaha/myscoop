@@ -1,10 +1,14 @@
 {
-    "version":  "2.0.0",
-    "license":  "GPL-3.0",
-    "url":  "https://github.com/rhaberkorn/sciteco/releases/download/v2.0.0/sciteco-gtk3_2.0.0_win32.zip",
-    "hash": "d7ffffa85aa08b8f428da10f0b6b4d19cd8ad89c511c76d40aa5b7160838be7d",
-    "checkver": {"github": "https://github.com/rhaberkorn/sciteco/"},
-    "autoupdate": {"url": "https://github.com/rhaberkorn/sciteco/releases/download/v$version/sciteco-gtk3_$version_win32.zip"},
-    "homepage":  "https://sciteco.sourceforge.net/",
-    "bin":  ["sciteco.exe"]
+    "version": "2.1.1",
+    "license": "GPL-3.0",
+    "url": "https://github.com/rhaberkorn/sciteco/releases/download/v2.1.1/sciteco-gtk3_2.1.1_win32.zip",
+    "hash": "daef54fe4da7d0796746383b6bdfa90b6bd3e066caa4b42b8a6fae09ec62af4c",
+    "checkver": {
+        "github": "https://github.com/rhaberkorn/sciteco/"
+    },
+    "autoupdate": {
+        "url": "https://github.com/rhaberkorn/sciteco/releases/download/v$version/sciteco-gtk3_$version_win32.zip"
+    },
+    "homepage": "https://sciteco.sourceforge.net/",
+    "bin": "sciteco.exe"
 }
